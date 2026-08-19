@@ -37,7 +37,7 @@ x-enrichment-note: >-
   /.well-known/security.txt, /openapi.json, and /llms.txt). Enrichment was
   therefore limited to honest identity hygiene plus a live domain-security
   probe; no API artifacts were fabricated.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
