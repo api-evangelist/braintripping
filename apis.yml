@@ -57,7 +57,7 @@ tags:
 - Games
 - Natural Language Processing
 - ClojureScript
-- Open-Source
+- Open Source
 - Y Combinator
 tags_raw:
 - Company
@@ -67,6 +67,7 @@ tags_raw:
 - ClojureScript
 - Open Source
 - Y Combinator
+- Open-Source
 apis: []
 common:
 - type: DomainSecurity
